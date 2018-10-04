@@ -1,0 +1,22 @@
+<section id="counter">
+
+  <div class="counter-row">
+    <div class="container">
+      <div class="row">
+        {{#counter}}
+        <div class="col-6 col-md-3 my-2">
+          <div class="counterup-block text-center">
+            <i class="{{icon}}"></i>
+            <!-- <ion-icon name="time"></ion-icon> -->
+            <div class="number">
+              <h3><span class="counter">{{ count }}</span><span> {{more}}</span><h3>
+            </div>
+            <h5 class="h5">{{ title }}</h5>
+          </div>
+        </div>
+      {{/counter}}
+      </div>
+    </div>
+  </div>
+
+</section>

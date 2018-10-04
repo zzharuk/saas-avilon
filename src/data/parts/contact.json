@@ -1,0 +1,21 @@
+[{
+  "heading":"MMCS",
+  "description": "ИННОВАЦИОННАЯ ON-LINE СИСТЕМА УПРАВЛЕНИЯ И КОНТРОЛЯ МЕРЧЕНДАЙЗИНГОМ",
+  "info":[
+    {
+      "icon":"ion-ios-location-outline",
+      "text":"Киев, ул. Юрия Шумского, 1б"
+    },
+    {
+      "icon":"ion-ios-email-outline",
+      "text":"office@LexMarketing.com.ua"
+    },
+    {
+      "icon":"ion-ios-telephone-outline",
+      "text":"+38 093 327 72 32"
+    }
+  ],
+  "form":{
+    "fields":[]
+  }
+}]

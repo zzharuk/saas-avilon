@@ -1,0 +1,21 @@
+#counter{
+  background: #fff;
+  padding: 60px 0;
+  overflow: hidden;
+  border-bottom: 1px solid rgba(0, 0, 0, .1);
+  i{
+    color: #666666;
+    font-size: 64px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    padding: 0 0px 0px 0;
+    line-height: 1;
+      &:before {
+        background: #1dc8cd;
+        background: linear-gradient(45deg, #1dc8cd 0%, #55fabe 100%);
+        background-clip: border-box;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+  }
+}

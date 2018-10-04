@@ -1,0 +1,27 @@
+<section id="testimonials">
+  <div class="container-fluid">
+    <!-- <div class="section-header">
+      <h3 class="section-title">Отзывы наших клиентов</h3>
+      <span class="section-divider"></span>
+      <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+    </div> -->
+
+    <div class="row no-gutters">
+
+      <div id="testimonials-carousel" class="owl-carousel owl-theme">
+        {{#testimonials}}
+        <div class="item testimonial-item">
+          <img src="img/testimonials/{{user_image}}" alt="" class="img-fluid">
+          <blockquote class="mt-2">
+            <p class="description">{{testimonial}}</p>
+          </blockquote>
+          <span class="divider"></span>
+          <h5>{{position}}</h5>
+        </div>
+        {{/testimonials}}
+      </div>
+
+    </div>
+
+  </div>
+</section>

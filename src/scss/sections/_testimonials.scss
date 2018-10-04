@@ -1,0 +1,30 @@
+#testimonials{
+  padding: 60px 0;
+  // background: #fff;
+  overflow: hidden;
+  .description{
+    text-align: center;
+    color: #777;
+    font-style: italic;
+  }
+  img{
+    max-width: 120px;
+    max-height: 120px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+  }
+  .owl-item{
+    text-align: center;
+  }
+  .divider {
+    display: block;
+    width: 40px;
+    height: 2px;
+    background: #1dc8cd;
+    background: -webkit-gradient(linear, left bottom, left top, from(#1dc8cd), to(#55fabe));
+    background: linear-gradient(0deg, #1dc8cd 0%, #55fabe 100%);
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "name":"Вадим Туткевич",
+    "testimonial":"Ресурс, который полностью удовлетворяет потребности нашей компании!",
+    "user_image":"user_33.jpg",
+    "position":"General Manager 'LexMarketing'",
+    "id":"0",
+    "active":"active"
+  },
+  {
+    "name":"Виталий Ткач",
+    "testimonial":"Ресурс, который полностью удовлетворяет потребности нашей компании!",
+    "user_image":"user_94.jpg",
+    "position":"Group KAM Henkel Beauty Care",
+    "id":"1"
+  },
+  {
+    "name":"Elon Musk",
+    "testimonial":"Система АГОНЬ!.",
+    "user_image":"user_70.jpg",
+    "position":"CEO",
+    "id":"2"
+  },
+  {
+    "name":"Randall Ray",
+    "testimonial":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "user_image":"randall.jpg",
+    "position":"General Manager",
+    "id":"3"
+  },
+  {
+    "name":"Liva Jørgensen",
+    "testimonial":" It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "user_image":"liva.jpg",
+    "position":"Group Care",
+    "id":"4"
+  },
+  {
+    "name":"Earl Griffin",
+    "testimonial":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "user_image":"earl.jpg",
+    "position":"CEO",
+    "id":"5"
+  },
+  {
+    "name":"Morris Davis",
+    "testimonial":"But also the leap into electronic typesetting, remaining essentially unchanged.Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "user_image":"morris.jpg",
+    "position":"HR",
+    "id":"6"
+  }
+]

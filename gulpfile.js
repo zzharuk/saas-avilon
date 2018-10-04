@@ -60,7 +60,9 @@ gulp.task('db-json', function() {
 // browserSync
 gulp.task('browserSync', function() {
       browserSync.init({
-        proxy: "http://localhost/saas_avilon/dist",
+        server: {
+          baseDir: "./dist"
+        },
         notify: true
       });
 

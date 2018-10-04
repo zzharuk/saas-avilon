@@ -127,5 +127,5 @@ jQuery(document).ready(function($) {
   });
 
   // custom code
-
+  $('.counter').counterUp({delay: 10, time: 1000});
 });

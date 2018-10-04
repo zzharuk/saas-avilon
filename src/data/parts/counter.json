@@ -1,0 +1,29 @@
+[{
+    "count": "11",
+    "title": "лет на рынке Украины",
+    "icon": "ion-ios-time-outline",
+    "more":"",
+    "key": 1
+  },
+  {
+    "count": "3000",
+    "title": "пользователей",
+    "icon": "ion-ios-people-outline",
+    "more":"+",
+    "key": 2
+  },
+  {
+    "count": "100000",
+    "title": "отчетов в месяц",
+    "icon": "ion-ios-list-outline",
+    "more":"+",
+    "key": 3
+  },
+  {
+    "count": "250000",
+    "title": "фотоотчетов в месяц",
+    "icon": "ion-ios-camera-outline",
+    "more":"+",
+    "key": 4
+  }
+]

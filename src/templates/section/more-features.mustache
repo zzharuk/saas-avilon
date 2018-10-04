@@ -1,0 +1,26 @@
+<section id="more-features" class="section-bg">
+  {{#more_features}}
+  <div class="container">
+
+    <div class="section-header">
+      <h3 class="section-title">{{heading}}</h3>
+      <span class="section-divider"></span>
+      <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+    </div>
+
+    <div class="row">
+      {{#items}}
+      <div class="col-lg-6">
+        <div class="box wow fadeInLeft">
+          <div class="icon"><i class="{{icon}}"></i></div>
+          <h4 class="title"><a href="">{{title}}</a></h4>
+          {{#list}}
+          <p class="description">{{description}}</p>
+          {{/list}}
+        </div>
+      </div>
+      {{/items}}
+    </div>
+  </div>
+  {{/more_features}}
+</section>

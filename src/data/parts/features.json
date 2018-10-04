@@ -1,0 +1,63 @@
+[{
+  "heading": "Возможности",
+  "button":"MORE SERVICES",
+  "items": [
+    {
+      "title": "Мерчендайзинг",
+      "icon":"ion-ios-speedometer-outline",
+      "data-wow-delay":"0",
+      "usage_item":[
+        {"description":"Выполнение работ по графику и заполнение отчета по каждой тт"},
+        {"description":"Фотоотчеты"},
+        {"description":"Комментарии к отчетам и фотоотчетам"},
+        {"description":"Передача данных в режиме реального времени"}
+      ]
+    },
+    {
+      "title": "Аудит",
+      "icon":"ion-ios-flask-outline",
+      "data-wow-delay":"0.1s",
+      "usage_item":[
+        {"description":"Полевые аудиты для контроля качества выполненных работ по тт"},
+        {"description":"Online аудиты из просмотра отчетов и фотоотчетов"},
+        {"description":"Гибкие критерии оценивания"},
+        {"description":"Прозрачная система оценки и бонусирования полевых команд"}
+      ]
+    },
+    {
+      "title": "Розничный аудит",
+      "icon":"ion-social-buffer-outline",
+      "data-wow-delay":"0.2s",
+      "usage_item":[
+        {"description":"Must Stock List"},
+        {"description":"Контроль стандартов выкладки"},
+        {"description":"Мониторинг конкурентов"},
+        {"description":"Замер долей полки"}
+      ]
+    },
+    {
+      "title": "Доп. задачи",
+      "icon":"ion-ios-analytics-outline",
+      "data-wow-delay":"0.3s",
+      "usage_item":[
+        {
+          "description":"Контроль промо-активностей",
+          "sub_usage_item":[
+            {"sub_usage_item_description":"OUT OF STOCK"},
+            {"sub_usage_item_description":"Текущие отчеты"},
+            {"sub_usage_item_description":"Фейсинг"}
+          ]
+        },
+        {
+          "description":"Мониторинг POSm",
+          "sub_usage_item":[
+            {"sub_usage_item_description":"Динамика OOS"},
+            {"sub_usage_item_description":"Динамика MSL"},
+            {"sub_usage_item_description":"Price Index"}
+          ]
+        },
+        {"description":"Контроль размещения доп. оборудования"}
+      ]
+    }
+  ]
+}]
